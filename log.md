@@ -1,5 +1,5 @@
 
-#CATALYST DAY 1 - 3.9.15
+#READING FACADES DAY 1 - 3.9.15
 
 ###GIT
 This is a method of storing and sharing information with the ability to document process.  This is for a github page, using Markdown to communicate.
@@ -9,7 +9,7 @@ Photogrammetry is used to retrieve real data points from photographs.  Difficult
 
 ![IMAGE](images/screenshot.jpg)
 
-#CATALYST DAY 2 - 3.10.15
+#READING FACADES DAY 2 - 3.10.15
 
 ###LEARNING PHOTOGRAMMETRY
 Today, we experimented with the software Photoscan.  The process entailed taking a series of photos of the exterior of Rapson Hall as a group then inputting the photos into the Photoscan software.  The software, using a series of algorithims that identifiy common points within the images, interprets the photographs three-dimensionally.   Results, in terms of wholeness and correctness of the actual forms, varied greatly throughout the class.  We identified the methods that each of us employed in photographing the spaces, finding that more computer-like methods tended to yield results that more closely resembled the buildings as we perceive them.  Below is an image of the east side of Rapson Hall as the computer perceived the photos I took.
