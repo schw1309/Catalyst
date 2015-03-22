@@ -78,8 +78,28 @@ We also took the drone out for the first time.  The opportunities the drone brin
 * The dichotomy between manual and automated design
 * Difference between decimation + drippy?
 * What role does movement play in process? To what extent are the models about movement? About vision?
-* Are we modelling affordances? Who are you to tell a computer what to do?
+* Are we modeling affordances? Who are you to tell a computer what to do?
 
+###EXPLORING PERIPHERY
+As humans walking through space, we subconsciously percieve "borders" in the spaces around us and "transitions" to new spaces.  As we travel through these spaces, we often are focused on specific points ahead of us while our mind implicitely takes in information in our periphery.  Jeremy and I explored how our environment that we don't consciously understand is understood and perceived by computer vision.  We traveled through a series of what we felt implicitely were distinct spaces along a route.  Then, we took a series of photos in each of these spaces and used photogrammetry to see how the computer's unbiased perscpective would generate the 3D environment.  We were surprised to see how the computer often left out our focal point and only modeled our periphery.  
+
+In this exploration, we were also led to question our perception of what a facade is.  Typically, we view a facade as a stand alone face face of a building distinct from its surrounding environment.  However, it became apparent in our exercise that that our context is more than separate faces of building.  Through the interactions of various materials, lighting conditions, and geometries, the boundaries percieved in our periphery are complex combinations of distinct facades and other elements.  In the PhotoScan mesh, partial buidling faces merge with trees and other landscape elements to form a more amorphous geometry of our periphery.  While we inherently understand the true geomtries of our spaces through our built-in database and understanding of the laws of physics, photogrammetry potentially renders a more realistic form of our periphery and what we subconsciously perceive.  Furthermore, by decimating the mesh, we are able to see more simplistically how the faces and elements of our environment interact to form boundaries.
+
+###SITE
+
+![IMAGE](logimages/day4site.jpg)
+
+###PHOTOSCAN WITH TEXTURE
+
+![IMAGE](logimages/day4texture.jpg)
+
+###MESH
+
+![IMAGE](logimages/day4mesh.jpg)
+
+###DECIMATION
+
+![IMAGE](logimages/day4polygon.jpg)
 
 
 
