@@ -67,7 +67,7 @@ We also took the drone out for the first time.  The opportunities the drone brin
 ![IMAGE](logimages/day3drone3.jpg)
 
 
-#DAY 4
+#DAY 4 3.12.15
 
 ###DISCUSSION QUESTIONS
 * Why build a model?
