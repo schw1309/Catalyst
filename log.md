@@ -42,9 +42,29 @@ In the process of logging work and sharing data, markdown is used then pushed to
 ![IMAGE](logimages/loglogging.jpg)
 
 
-#DAY 3 
+#DAY 3 - 3.11.15
 
+###EXPLORING ENTRIES
 
+Today, we looked at Pillsbury Hall entry and the Rec Center entry as a class with various methods of photographing.  We found that transversing around the building and through the building (into the entry) at Pillsbury had very different results.  Transversing around picked up more contextual information and blended together vegetation elements and building elements while transversing through the entry yielded greater more information within the focal point (the entry) and less of the contextual elements.  
+
+####TRANSVERSING AROUND 
+
+![IMAGE](logimages/day3screenshot2.jpg)
+
+#### TRANSVERSING THROUGH
+
+![IMAGE](logimages/day3screenshot1.jpg)
+
+###DRONE
+
+We also took the drone out for the first time.  The opportunities the drone brings are being able to move around a building completely and get every vantage point.  I was surprised at how high it is able to go and how stable and smooth the videos are from the GoPro.
+
+![IMAGE](logimages/day3drone.jpg)
+
+![IMAGE](logimages/day3drone2.jpg)
+
+![IMAGE](logimages/day3drone3.jpg)
 
 
 #DAY 4
